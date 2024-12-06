@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 05 11:08:49 GMT+07:00 2024
+loader-0.8.0.aar>=
+loader-0.8.0.pom>=

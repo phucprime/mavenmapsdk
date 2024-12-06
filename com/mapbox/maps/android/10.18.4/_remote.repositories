@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 05 14:29:13 GMT+07:00 2024
+android-10.18.4.aar>=
+android-10.18.4.pom>=
